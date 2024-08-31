@@ -11,7 +11,7 @@
 
 ### 🏛️ 서비스 아키텍쳐
 <div align=center>
-<img src="../service_architecture.png" width="800"/>
+<img src="../bows_architecture_with_cicd.png" width="800"/>
 </div>
  
 <br>
